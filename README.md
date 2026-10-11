@@ -173,8 +173,7 @@ I read history to see how people were wrong at scale, philosophy to learn how to
 - When a machine learns to lie convincingly, did we teach it deception, or did it simply find it?
 - If a language is how people think, what changes when software finally speaks it back to them?
 - What do we owe the minds we build, and what do they owe the ones who built them?
-
----
+--
 
 <div align="center">
 
